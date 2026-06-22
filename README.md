@@ -1,56 +1,40 @@
-# Документация для AI Language Learning App
+```yaml
+title: Get Started with Claude.ai: Build Connectors and Plugins
+description: Learn to build with Claude.ai features like Connectors and Plugins to enhance your applications effectively.
+```
 
-## Введение
-AI Language Learning App — это инновационное приложение, которое использует искусственный интеллект для помощи пользователям в изучении иностранных языков. Оно предлагает персонализированные курсы и задания, адаптированные к индивидуальным потребностям каждого пользователя.
+# Get Started with Claude.ai: Build Connectors and Plugins
 
-## Особенности
+Get started building with Claude.ai by exploring its features and capabilities. This guide will help you leverage Connectors, Plugins, and more to enhance your applications.
 
-### Персонализированное обучение
-Приложение использует алгоритмы ИИ для адаптации курсов и заданий в зависимости от уровня пользователя. Это позволяет каждому обучающемуся получать материалы, соответствующие его знаниям и прогрессу.
+## What you'll learn
+1. Overview of Claude.ai features
+2. Steps to set up your environment
+3. How to create Connectors and Plugins
 
-#### Ключевые аспекты:
-- Оценка уровня знаний при первом входе.
-- Адаптация контента по мере обучения.
-- Рекомендации на основе успехов и ошибок.
+## Prerequisites
+- Basic understanding of programming concepts
+- Access to Claude.ai account
+- Familiarity with API usage
 
-### Виртуальный репетитор
-Виртуальный репетитор — это функция, которая предоставляет пользователям возможность получать помощь в реальном времени. Он отвечает на вопросы, объясняет сложные темы и предлагает дополнительные ресурсы для изучения.
+## 1. Overview of Features
+Claude.ai offers various features that allow you to integrate and extend functionalities in your applications. Key features include:
+- **Connectors**: Integrate with external services.
+- **Plugins**: Add custom functionalities to your applications.
+- **API Access**: Programmatically interact with Claude.ai services.
 
-#### Основные функции:
-- Ответы на вопросы по грамматике и лексике.
-- Поддержка в выполнении заданий.
-- Персонализированные советы по улучшению.
+## 2. Set Up Your Environment
+Ensure your development environment is ready:
+- Install necessary libraries and dependencies.
+- Configure your API keys from your Claude.ai account.
 
-### Упражнения и задания
-Приложение предлагает разнообразные типы заданий, которые помогают пользователям развивать навыки чтения, письма, аудирования и говорения.
+## 3. Create Connectors and Plugins
+Follow these steps to create your first Connector or Plugin:
+1. Navigate to the Claude.ai dashboard.
+2. Select the "Create" option for Connectors or Plugins.
+3. Follow the prompts to define your integration.
+4. Test your Connector or Plugin in the provided sandbox environment.
+5. Deploy your integration to your application.
 
-#### Типы заданий:
-- Викторины и тесты.
-- Упражнения на заполнение пропусков.
-- Аудио- и видео-задания.
-- Игровые элементы для повышения вовлеченности.
-
-### Отслеживание прогресса
-Пользователи могут легко отслеживать свой прогресс и получать отчеты о достижениях. Это помогает мотивировать и направлять обучение.
-
-#### Возможности отслеживания:
-- Графики прогресса по различным навыкам.
-- Отчеты о выполненных заданиях.
-- Цели и достижения, которые можно установить.
-
-## Часто задаваемые вопросы
-
-### Как начать использовать приложение?
-Зарегистрируйтесь, создайте профиль и пройдите тест на уровень знаний.
-
-### Какие языки доступны для изучения?
-На данный момент доступны английский, испанский, французский и немецкий языки.
-
-### Как работает виртуальный репетитор?
-Виртуальный репетитор использует ИИ для анализа ваших вопросов и предоставляет ответы и рекомендации на основе ваших потребностей.
-
-### Могу ли я отслеживать свой прогресс?
-Да, приложение предлагает функции для отслеживания вашего прогресса и получения отчетов о ваших достижениях.
-
-### Как часто обновляются задания?
-Задания обновляются регулярно, чтобы обеспечить актуальность и разнообразие контента.
+## Next steps
+Explore more about advanced features and best practices in the [API Reference](#) and [FAQs](#) sections. Dive deeper into creating effective integrations with Claude.ai!

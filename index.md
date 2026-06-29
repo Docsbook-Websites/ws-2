@@ -1,55 +1,50 @@
----
-title: Get started building with Claude.ai
-description: Get started building with Connectors, Plugins, and other Claude.ai features.
----
-# Think fast, build faster
+# Create a Comprehensive Documentation Site for Stripe
 
-Brainstorm in chat, build in Cowork
+## What You'll Learn
+In this tutorial, you will learn how to create a comprehensive documentation site inspired by the Stripe website. You will cover branding, structure, and content organization.
 
-Continue with Google or
-[Continue with email](https://claude.ai/?redirect=claude.com&via=static_email)Continue with SSO
+## Prerequisites
+1. Basic understanding of web development concepts.
+2. Familiarity with Markdown and HTML.
+3. Access to a web hosting service or local development environment.
 
-By continuing, you acknowledge Anthropic's [Privacy Policy](https://www.anthropic.com/legal/privacy) and agree to get occasional promotional emails and notifications.
+## Steps
 
-## Explore plans
+1. **Analyze Stripe's Documentation**
+   - Visit the Stripe documentation site.
+   - Identify key sections, features, and layout elements.
 
-### Free
-[Try Claude](https://claude.ai/login?plan=free)
-$0 Free for everyone
-- Chat on web, iOS, Android, and on your desktop
-- Generate code and visualize data
-- Write, edit, and create content
-- Analyze text and images
-- Ability to search the web
-- Create files and execute code
-- Unlock more from Claude with desktop extensions
-- Connect Slack and Google Workspace services
+2. **Define Your Branding**
+   - Choose a color scheme that aligns with your brand.
+   - Select fonts that enhance readability and match your style.
 
-### Pro
-[Try Claude](https://claude.ai/login?plan=pro)
-For everyday productivity $17 Per month with annual subscription discount ( $200 billed up front). $20 if billed monthly.
-**Everything in Free, plus:**
-- More usage
-- Claude Code
-- Cowork
-- Unlimited projects
-- Access to Research
-- Memory across conversations
-- More Claude models
+3. **Set Up Your Project Structure**
+   - Create a directory for your documentation site.
+   - Organize folders for images, styles, and Markdown files.
 
-### Max
-[Try Claude](https://claude.ai/login?plan=max)
-5–20x more usage than Pro
-From $100
+4. **Create a Home Page**
+   - Write an engaging introduction to your documentation.
+   - Include links to major sections and features.
 
-## FAQ
-### What is Claude and how does it work?
-Claude is an artificial intelligence, trained by Anthropic using Constitutional AI to be safe, accurate, and secure — the trusted assistant for you to do your best work.
+5. **Develop Section Pages**
+   - Create individual pages for each major topic.
+   - Use clear headers and subheaders for easy navigation.
 
-You can use Claude for your own personal use or create a Team account to collaborate with your teammates. [Learn more about Claude](/product/overview).
+6. **Implement a Search Functionality**
+   - Integrate a search tool to help users find content quickly.
+   - Ensure it indexes all your documentation pages.
 
-### What should I use Claude for?
-If you can dream it, Claude can help you do it. Claude can process large amounts of information, brainstorm ideas, generate text and code, help you understand subjects, coach you through difficult situations, simplify your busywork so you can focus on what matters most, and so much more.
+7. **Add Code Examples**
+   - Provide clear code snippets relevant to your documentation.
+   - Use syntax highlighting for better readability.
 
-### How much does it cost to use?
-Claude has five pricing plans available — Free, Pro, Max, Team, and Enterprise. The Free plan offers limited use with no payment required. [Learn more about available pricing plans](/pricing).
+8. **Test Your Site**
+   - Review all links and content for accuracy.
+   - Ensure the site is responsive on different devices.
+
+9. **Deploy Your Documentation Site**
+   - Choose a hosting platform and upload your files.
+   - Verify that the site is live and functioning correctly.
+
+## Next Steps
+Explore how to enhance your documentation site with user feedback and analytics. Check out our guides on integrating user feedback tools and tracking site performance.
